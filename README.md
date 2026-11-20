@@ -38,6 +38,7 @@ afonso = {
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
 
@@ -53,6 +54,7 @@ afonso = {
 
 | Project | What I did | Key result |
 |---|---|---|
+| 🎮 **[Mobile game A/B test](https://github.com/AfonsoGoncalvesRosa123/Cookie-Cats-AB-Test)**<br><sub>Python · SciPy · statistics</sub> | A/B test on 90,189 players (gate at level 30 vs 40): sample-ratio-mismatch check and stress test, z-test, bootstrap, power analysis, Bayesian view, segments with Holm correction | Day-7 retention **-0.82 pp (p = 0.002)** with gate at 40, so recommended **not to ship**; test had 89% power |
 | 🚋 **[Prague public transport data warehouse](https://github.com/AfonsoGoncalvesRosa123/Prague-PID-Data-Warehouse)**<br><sub>dbt · DuckDB · SQL · Streamlit</sub> | Star schema (2 fact + 4 dimension tables) built with dbt from the official Prague timetable feed, 67 data-quality tests, lineage docs and a Streamlit dashboard | **5.7M departures** modelled for one week; ~934k departures per weekday, metro every 2–2.6 min at peak |
 | 🚕 **[NYC Taxi big-data pipeline](https://github.com/AfonsoGoncalvesRosa123/NYC-Taxi-Spark-Pipeline)**<br><sub>PySpark · Hadoop HDFS · Docker</sub> | Spark cluster + HDFS in Docker processing a full year of NYC taxi trips through bronze / silver / gold layers, with data-quality rules and benchmarks | **41M rows in ~13 min** on a laptop; broadcast joins 5.6x faster, Parquet 10x faster than CSV |
 | 📈 **[Rossmann sales forecasting](https://github.com/AfonsoGoncalvesRosa123/Rossmann-Sales-Forecasting)**<br><sub>Python · scikit-learn · statsmodels</sub> | 42-day daily sales forecast for 1,115 stores with a global gradient boosting model and rolling-origin backtests | **8.8–9.5% WAPE**, 27–31% lower error than the best seasonal-naive baseline |
