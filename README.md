@@ -28,6 +28,8 @@ afonso = {
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt">
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
 
@@ -51,6 +53,7 @@ afonso = {
 
 | Project | What I did | Key result |
 |---|---|---|
+| 🚋 **[Prague public transport data warehouse](https://github.com/AfonsoGoncalvesRosa123/Prague-PID-Data-Warehouse)**<br><sub>dbt · DuckDB · SQL · Streamlit</sub> | Star schema (2 fact + 4 dimension tables) built with dbt from the official Prague timetable feed, 67 data-quality tests, lineage docs and a Streamlit dashboard | **5.7M departures** modelled for one week; ~934k departures per weekday, metro every 2–2.6 min at peak |
 | 🚕 **[NYC Taxi big-data pipeline](https://github.com/AfonsoGoncalvesRosa123/NYC-Taxi-Spark-Pipeline)**<br><sub>PySpark · Hadoop HDFS · Docker</sub> | Spark cluster + HDFS in Docker processing a full year of NYC taxi trips through bronze / silver / gold layers, with data-quality rules and benchmarks | **41M rows in ~13 min** on a laptop; broadcast joins 5.6x faster, Parquet 10x faster than CSV |
 | 📈 **[Rossmann sales forecasting](https://github.com/AfonsoGoncalvesRosa123/Rossmann-Sales-Forecasting)**<br><sub>Python · scikit-learn · statsmodels</sub> | 42-day daily sales forecast for 1,115 stores with a global gradient boosting model and rolling-origin backtests | **8.8–9.5% WAPE**, 27–31% lower error than the best seasonal-naive baseline |
 | 🏠 **[Airbnb in Lisbon](https://github.com/AfonsoGoncalvesRosa123/Airbnb-Lisbon-SQL)**<br><sub>MySQL · SQL · Power BI</sub> | 25,000 listings and 1.9M reviews in MySQL, 11 business questions in SQL, two-page Power BI dashboard | 5 parishes hold **~65% of listings**; reviews peak in August at 2.5x December |
