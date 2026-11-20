@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:afonsorosa2003@gmail.com"><img src="https://img.shields.io/badge/Email-afonsorosa2003%40gmail.com-1f4e79?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Coimbra%20%7C%20Prague-1f4e79?style=flat-square" alt="Based in Coimbra and Prague">
-  <img src="https://img.shields.io/badge/Open%20to-data%20analysis%20internships-2e7d32?style=flat-square" alt="Open to data analysis internships">
+  <a href="mailto:afonsorosa2003@gmail.com"><img src="https://img.shields.io/badge/Email-afonsorosa2003%40gmail.com-8b1a1a?style=for-the-badge&labelColor=111111&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Based%20in-Coimbra%20%7C%20Prague-8b1a1a?style=for-the-badge&labelColor=111111" alt="Based in Coimbra and Prague">
+  <img src="https://img.shields.io/badge/Open%20to-data%20analyst%20roles-b22222?style=for-the-badge&labelColor=111111" alt="Open to data analyst roles">
 </p>
 
 ### 👋 About me
@@ -14,9 +14,9 @@
 afonso = {
     "studying":    "MSc Computer Engineering, Intelligent Data Analysis (ISEC, Coimbra)",
     "exchange":    "Erasmus at the Czech Technical University in Prague, Sep 2026 – Feb 2027",
-    "background":  "BSc Software Development · internship building a SQL Server + .NET app",
+    "background":  "BSc Software Development · built a SQL Server + .NET app at RCSoft",
     "publication": "First author, CAPSI 2026: deep learning in logistics and production",
-    "looking_for": "Data analysis internship or junior role",
+    "looking_for": "Data analyst / data engineering roles",
     "languages":   ["Portuguese (native)", "English (C1–C2)", "French (A1)"],
 }
 ```
@@ -25,27 +25,27 @@ afonso = {
 
 **Data & BI**
 <br>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/SQL-161616?style=for-the-badge&logo=postgresql&logoColor=e5534b" alt="SQL">
+<img src="https://img.shields.io/badge/MySQL-161616?style=for-the-badge&logo=mysql&logoColor=e5534b" alt="MySQL">
+<img src="https://img.shields.io/badge/SQL%20Server-161616?style=for-the-badge&logo=microsoftsqlserver&logoColor=e5534b" alt="SQL Server">
+<img src="https://img.shields.io/badge/Power%20BI-161616?style=for-the-badge&logo=powerbi&logoColor=e5534b" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-161616?style=for-the-badge&logo=microsoftexcel&logoColor=e5534b" alt="Excel">
 
 **Python & ML**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=e5534b" alt="Python">
+<img src="https://img.shields.io/badge/pandas-161616?style=for-the-badge&logo=pandas&logoColor=e5534b" alt="pandas">
+<img src="https://img.shields.io/badge/NumPy-161616?style=for-the-badge&logo=numpy&logoColor=e5534b" alt="NumPy">
+<img src="https://img.shields.io/badge/scikit--learn-161616?style=for-the-badge&logo=scikitlearn&logoColor=e5534b" alt="scikit-learn">
+<img src="https://img.shields.io/badge/Matplotlib-161616?style=for-the-badge" alt="Matplotlib">
 
 **Big data & tools**
 <br>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
-<img src="https://img.shields.io/badge/Hadoop%20HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop HDFS">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# / .NET">
+<img src="https://img.shields.io/badge/Apache%20Spark-161616?style=for-the-badge&logo=apachespark&logoColor=e5534b" alt="Apache Spark">
+<img src="https://img.shields.io/badge/Hadoop%20HDFS-161616?style=for-the-badge&logo=apachehadoop&logoColor=e5534b" alt="Hadoop HDFS">
+<img src="https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=e5534b" alt="Docker">
+<img src="https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=e5534b" alt="Git">
+<img src="https://img.shields.io/badge/C%23%20%2F%20.NET-161616?style=for-the-badge&logo=dotnet&logoColor=e5534b" alt="C# / .NET">
 
 ### 🚀 Projects
 
